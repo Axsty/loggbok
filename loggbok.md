@@ -10,17 +10,18 @@ Det var väldigt små items jag hade denna vecka så allt blev färdigt fort.
 
 ### Eventuella problem och hur jag löste dom
 
-
 ### Samarbete och agilt arbete
 Jag var scrum master. Det var något nytt och lite svårt att komma in i men det löste sig fint. Vi jobbade på bra och hade alla våra daily scrums.
 
 ## Sprint 2 - vecka 39
 
 ### Vad arbetade jag med
--- 
+-- Grundläggande kundvagn
+-- Skicka produkter till product-service med JWT
+
+Implemeterade en grundläggande kundvagn. 
 
 ### Eventuella problem och hur jag löste dom
 
-
 ### Samarbete och agilt arbete
-
+Fortsatt bra arbete för alla i gruppen. Möten flyter på i vanlig ordning.
