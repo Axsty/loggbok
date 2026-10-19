@@ -16,8 +16,8 @@ Jag var scrum master. Det var något nytt och lite svårt att komma in i men det
 ## Sprint 2 - vecka 39
 
 ### Vad arbetade jag med
--- Grundläggande kundvagn
--- Skicka produkter till product-service med JWT
+- Grundläggande kundvagn
+- Skicka produkter till product-service med JWT
 
 Implemeterade en grundläggande kundvagn. 
 
@@ -29,10 +29,10 @@ Fortsatt bra arbete för alla i gruppen. Möten flyter på i vanlig ordning. Vi 
 ## Sprint 3 - vecka 40
 
 ### Vad arbetade jag med
--- Logga ut knapp
--- Filtrera produkter efter kategori
--- Sökruta för sökning av produkt
--- Köra email-service lokalt
+- Logga ut knapp
+- Filtrera produkter efter kategori
+- Sökruta för sökning av produkt
+- Köra email-service lokalt
 
 ### Eventuella problem och hur jag löste dom
 Hade lite problem med att köra email-service lokalt. Löste det genom att använda en string builder som bygger ihop en order-confirmation och skickar med den till send metoden.
@@ -43,8 +43,8 @@ Fortsatt bra arbete. Fortsätter att ha daily scrums varje dag. Planning poker f
 ## Sprint 4-5 - vecka 41-42
 
 ### Vad arbetade jag med
--- Gateway
--- CSS/Tailwind
+- Gateway
+- CSS/Tailwind
 
 Vi valde i våran grupp att alla skapar en gateway var lokalt. Detta för att lära sig hur man gör det och hur det fungerar. Jag började också jobba med designen för vår hemsida. Jag valde att köra på ett litet mörkare tema. I product-page satte jag en grid och grid-cols för att få produkt korten att lägga sig brevid varandra. Jag stylade också alla knappar och sökrutor för att få en sammanhängande design.
 
@@ -52,3 +52,12 @@ Vi valde i våran grupp att alla skapar en gateway var lokalt. Detta för att l�
 
 ### Samarbete och agilt arbete
 Vi arbetar på separat och håller våra daily scrums. Denna vecka körde vi ingen planning poker då vi alla gör samma sak. Vi borde egentligen ha delat upp gateway i flera delar.
+
+## Sprint 6 - vecka 43
+
+### Vad arbetade jag med 
+
+### Eventuella problem och hur jag löste dom
+
+### Samarbete och agilt arbete
+
